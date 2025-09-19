@@ -3,22 +3,21 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=y0under&theme=dracula&show_icons=ture" />
 </p>
 
-## スキルセット
+## skill
 
-- C/C++ 4年(業務1年 プライベート3年)
-- C# 1.5年(業務1.5年 プライベート0年)
+- C/C++ 5 years experience(work: 2 years, private: 3 years)
+- C# 1.5 years experience(work: 1.5 years)
 
-## 資格試験
+## certification
 
 - Bachelor of Computer Science
-- 基本情報技術者
-- 応用情報技術者
+- IPA: Fundamental Information Technology Engineer Examination (基本情報技術者)
+- IPA: Applied Information Technology Engineer Examination (応用情報技術者)
 
 ## 興味
 
-- OpenGL
-- Vulkan
-- Game Programming
+- Termination
+- Haskell
  
 <!--
 **y0under/y0under** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
