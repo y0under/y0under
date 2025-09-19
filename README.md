@@ -14,7 +14,7 @@
 - IPA: Fundamental Information Technology Engineer Examination (基本情報技術者)
 - IPA: Applied Information Technology Engineer Examination (応用情報技術者)
 
-## 興味
+## interest
 
 - Termination
 - Haskell
